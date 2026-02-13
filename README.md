@@ -82,7 +82,7 @@ LLMは独立条件として実装した結果、例えば「減速度 < 2.5（�
 
 ## 実行環境
 
-- [Alloy Analyzer](https://alloytools.org/) 6.x
+- [Alloy Analyzer](https://alloytools.org/) 6.2.0
 - 各 `.als` ファイルを Alloy Analyzer で開き、`run classify_all` で実行
 
 > **注意：** 01 は 576 Cell、02/03 は 1152 Cell を全列挙するため、実行には相応のメモリと時間を要します。
